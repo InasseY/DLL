@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\bin\Debug\netcoreapp3.1\DLL_game.deps.json
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\bin\Debug\netcoreapp3.1\DLL_game.dll
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\bin\Debug\netcoreapp3.1\DLL_game.pdb
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.dll
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\DLL_game\DLL_game\obj\Debug\netcoreapp3.1\DLL_game.pdb
